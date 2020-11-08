@@ -10,7 +10,14 @@
 - :musical_note: Singer + bass and ukulele player :microphone::musical_score:
 
 ### Stats :chart:
-#### General
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aletrianti&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-#### Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aletrianti&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>:zap: General</summary>
+  
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aletrianti&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
+<details>
+  <summary>:zap: Top Languages</summary>
+  
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aletrianti&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</details>
