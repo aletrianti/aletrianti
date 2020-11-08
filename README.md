@@ -6,7 +6,7 @@
 ### Who am I? :shrug:
 - :wave: 22-year-old girl from Italy :it: and based in Denmark :denmark:
 - :computer: Web Development student and Software Developer :iphone:
-- :earth_africa: Language lover, I understand :it: :uk: :denmark: :fr: :es: :de:
+- :earth_africa: Language lover, I understand :it: :uk: :denmark: :fr: :es: :de: (aside from programming languages!)
 - :musical_note: Singer + bass and ukulele player :microphone::musical_score:
 
 ### Stats :chart:
