@@ -11,13 +11,13 @@
 
 ### Stats :chart:
 <details>
-  <summary>:zap: General</summary>
-  <br/>
+  <summary>:zap: General</summary><br/>
+  
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aletrianti&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 <details>
-  <summary>:zap: Top Languages</summary>
-  <br/>
+  <summary>:zap: Top Languages</summary><br/>
+  
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aletrianti&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </details>
