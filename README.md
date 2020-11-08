@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aletrianti)
 
 ### Who am I? :shrug:
-- :earth_africa: 22-year-old girl from Italy :it: and based in Denmark <span>&#1f1e9;</span>
+- :earth_africa: 22-year-old girl from Italy :it: and based in Denmark <span>&#x1f1e9_1f1f0;</span>
 - :computer: Web Development student and Software Developer :iphone:
 - :globe_with_meridians: Language lover, I understand :it: :uk: :denmark: :fr: :es: :de:
 
