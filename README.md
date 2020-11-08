@@ -7,7 +7,7 @@
 - :wave: 22-year-old girl from Italy :it: and based in Denmark :denmark:
 - :computer: Web Development student and Software Developer :iphone:
 - :earth_africa: Language lover, I understand :it: :uk: :denmark: :fr: :es: :de:
-- :musical_note: Singer :microphone: + bass and ukulele player :musical_score:
+- :musical_note: Singer + bass and ukulele player :microphone::musical_score:
 
 ### Stats :chart:
 #### General
