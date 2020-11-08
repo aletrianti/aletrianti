@@ -19,5 +19,5 @@
 <details>
   <summary>:label: Top Languages</summary><br/>
   
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aletrianti&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aletrianti&layout=compact&theme=dark&hide=php)](https://github.com/anuraghazra/github-readme-stats)
 </details>
