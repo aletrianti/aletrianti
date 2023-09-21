@@ -4,8 +4,8 @@
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aletrianti)
 
 ### Who am I? :shrug:
-- :wave: 25 y.o. from Italy :it: and based in Denmark :denmark:
-- :computer: Software Developer (Full-Stack) and Tech Coordinator :iphone:
+- :wave: From Italy :it: and based in Denmark :denmark:
+- :computer: Software Developer (Full-Stack) and Team Lead :iphone:
 - :earth_africa: Language lover :it: :uk: :denmark: :fr: :es: :de:
 - :musical_note: Singer + bass and ukulele player :microphone::musical_score:
 
