@@ -2,12 +2,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aletrianti/)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aletrianti)
+[![Tech Raccoons org]](https://github.com/Tech-Raccoons)
 
 ### Who am I? :shrug:
 - :wave: From Italy :it: and based in Denmark :denmark:
 - :computer: Software Developer (Full-Stack) and Team Lead :iphone:
 - :earth_africa: Language lover :it: :uk: :denmark: :fr: :es: :de:
-- :musical_note: Singer + bass and ukulele player :microphone::musical_score:
+- :musical_note: Singer + bass, guitar, and ukulele player :microphone::musical_score:
 
 ### Stats :chart:
 <details>
