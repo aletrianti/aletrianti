@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aletrianti/)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aletrianti)
-[![Tech Raccoons org]](https://github.com/Tech-Raccoons)
+[![Tech Raccoons org](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tech-Raccoons)
 
 ### Who am I? :shrug:
 - :wave: From Italy :it: and based in Denmark :denmark:
