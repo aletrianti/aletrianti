@@ -5,7 +5,7 @@
 
 ### Who am I? :shrug:
 - :wave: From Italy :it: and based in Denmark :denmark:
-- :computer: Software Developer (Full-Stack) and Team Lead :iphone:
+- :computer: Software Developer (Full-Stack) and Engineering Manager :iphone:
 - :earth_africa: Language lover :it: :uk: :denmark: :fr: :es: :de:
 - :musical_note: Singer + bass, guitar, and ukulele player :microphone::musical_score:
 - :computer: Contributor in [Tech Raccoons](https://github.com/Tech-Raccoons) :paw_prints:
