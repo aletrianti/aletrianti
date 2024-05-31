@@ -8,7 +8,7 @@
 - :computer: Software Developer (Full-Stack) and Engineering Manager :iphone:
 - :earth_africa: Language lover :it: :uk: :denmark: :fr: :es: :de:
 - :musical_note: Singer + bass, guitar, and ukulele player :microphone::musical_score:
-- :computer: Contributor in [Tech Raccoons](https://github.com/Tech-Raccoons) :paw_prints:
+- :computer: Contributor in [Tech Raccoons](https://github.com/Tech-Raccoons) :paw_prints: (React-focused project)
 
 ### Stats :chart:
 <details>
