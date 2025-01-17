@@ -7,7 +7,7 @@
 - :wave: From Italy :it: and based in Denmark :denmark:
 - :computer: Software Developer (Full-Stack) and Engineering Manager :iphone:
 - :earth_africa: Language lover :it: :uk: :denmark: :fr: :es: :de:
-- :musical_note: Singer + bass, guitar, and ukulele player :microphone::musical_score:
+- :musical_note: Singer + piano, bass, guitar, and ukulele player :microphone::musical_score:
 - :computer: Contributor in [Tech Raccoons](https://github.com/Tech-Raccoons) :paw_prints: (React-focused project)
 
 ### Stats :chart:
